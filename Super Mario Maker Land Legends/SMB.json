@@ -1,0 +1,52 @@
+{
+  "mario_sprite": "spr_SMB_mario_",
+  
+  "themes": {
+    "Overworld":     { "bg": "spr_SMB_bgr_overworld",   "ed": "snd_SMB_loop",   "lvl": "snd_SMB_ov_loop" },
+    "Underground":   { "bg": "spr_SMB_bgr_underground", "ed": "snd_SMB_loop2",  "lvl": "snd_SMB_un_loop" },
+    "Underwater":    { "bg": "spr_SMB_bgr_underwater",  "ed": "snd_SMB_loop3",  "lvl": "snd_SMB_uw_loop" },
+    "Desert":        { "bg": "spr_SMB_bgr_desert",      "ed": "snd_SMB_loop4",  "lvl": "snd_SMB_ds_loop" },
+    "Snow":          { "bg": "spr_SMB_bgr_snow",        "ed": "snd_SMB_loop5",  "lvl": "snd_SMB_sw_loop" },
+    "Sky":           { "bg": "spr_SMB_bgr_sky",         "ed": "snd_SMB_loop6",  "lvl": "snd_SMB_sk_loop" },
+    "Forest":        { "bg": "spr_SMB_bgr_forest",      "ed": "snd_SMB_loop7",  "lvl": "snd_SMB_fr_loop" },
+    "Haunted House": { "bg": "spr_SMB_bgr_underground", "ed": "snd_SMB_loop8",  "lvl": "snd_SMB_gh_loop" },
+    "Airship":       { "bg": "spr_SMB_bgr_sky",         "ed": "snd_SMB_loop9",  "lvl": "snd_SMB_as_loop" },
+    "Castle":        { "bg": "spr_SMB_bgr_underground", "ed": "snd_SMB_loop10", "lvl": "snd_SMB_cs_loop" }
+  },
+
+    "objects": {
+    "obj_ground_s": {
+      "Overworld":     "spr_smb_ground_ov",
+      "Underground":   "spr_smb_ground_un",
+      "Underwater":    "spr_smb_ground_uw",
+      "Desert":        "spr_smb_ground_ds",
+      "Snow":          "spr_smb_ground_sw",
+      "Sky":           "spr_smb_ground_sk",
+      "Forest":        "spr_smb_ground_fr",
+      "Haunted House": "spr_smb_ground_gh",
+      "Airship":       "spr_smb_ground_sk",
+      "Castle":        "spr_smb_ground_cs"
+    },
+
+    "obj_ground": {
+      "Overworld":     "spr_smb_ground_ov",
+      "Underground":   "spr_smb_ground_un",
+      "Underwater":    "spr_smb_ground_uw",
+      "Desert":        "spr_smb_ground_ds",
+      "Snow":          "spr_smb_ground_sw",
+      "Sky":           "spr_smb_ground_sk",
+      "Forest":        "spr_smb_ground_fr",
+      "Haunted House": "spr_smb_ground_gh",
+      "Airship":       "spr_smb_ground_as",
+      "Castle":        "spr_smb_ground_cs"
+    },
+
+    "obj_ineditor_goomba": "spr_SMB_goomba",
+    "obj_ineditor_koopa": "spr_SMB_koopa_classic",
+    "obj_ineditor_buzzybeetle": "spr_SMB_buzzybeetle",
+    "obj_ineditor_pplant": "spr_SMB_piranhaplant",
+    "obj_ineditor_qblock": "spr_SMB_qblock",
+    "obj_ineditor_mushroom": "spr_SMB_mushroom",
+    "obj_ineditor_bridge": "spr_SMB_bridge"
+  }
+}

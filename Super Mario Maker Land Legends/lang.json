@@ -1,0 +1,65 @@
+{
+    "es": {
+        "advertencia_txt": [
+            "ADVERTENCIA",
+            "Este fangame de Mario Maker es una creación de fans, para fans",
+            "y no está afiliado ni respaldado por © Nintendo",
+            "Todos los elementos y recursos utilizados en este juego",
+            "no nos pertenecen, son propiedad legítima de la empresa.",
+            "",
+            "Al descargar y jugar este fangame, entiendes que es",
+            "un proyecto puramente recreativo y distribuido",
+            "gratuitamente (así que si pagaste por él, fuiste estafado)",
+            "con el único fin de entretener a la comunidad.",
+            "Disfruta!"
+        ],
+        "presentacion_txt": "- NwDrago Presenta -",
+        "dias_txt": [
+            "Feliz Domingo!",
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado"
+        ],
+        "titulobtn_txt": [
+            "Mis niveles",
+            "Crear Niveles",
+            "Jugar Niveles"
+        ],
+        "panelbusqueda_txt": "Panel de Objetos"
+    },
+
+    "en": {
+        "advertencia_txt": [
+            "WARNING",
+            "This Mario Maker fangame is a creation by fans, for fans",
+            "and is neither affiliated with nor endorsed by © Nintendo",
+            "All the elements and assets used in this game",
+            "do not belong to us, they are legitimate propety of the company.",
+            "",
+            "By downloading and playing this fangame, you understand that it is",
+            "a purely recreational project distribuited completely",
+            "for free (so if you paid for it, you were scammed)",
+            "with the sole purpose of entertaining the community",
+            "Enjoy!"
+        ],
+        "presentacion_txt": "- NwDrago Presents -",
+        "dias_txt": [
+            "Happy Sunday!",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "titulobtn_txt": [
+            "My Levels",
+            "Create Levels",
+            "Play Levels"
+        ],
+        "panelbusqueda_txt": "Objects Panel"
+    }
+}
